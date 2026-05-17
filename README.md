@@ -5,6 +5,13 @@ DataPurge Pro is a high-performance, memory-safe CLI data engineering tool desig
 Built entirely in Python using a line-by-line generator/streaming approach, it can process massive datasets using less than 100MB of RAM, making it completely Out-Of-Memory (OOM) safe.
 
 ---
+## 📸 Screenshots
+
+![DataPurge Pro Interface 1](1 loading screen.png.png)
+
+![DataPurge Pro Interface 2](2 results.png.png)
+
+![DataPurge Pro Interface 3](3 results.png.png)
 
 ## ⚡ Performance Benchmark
 - **Dataset Size:** 100,000 rows (2.6 MB Data Log)
