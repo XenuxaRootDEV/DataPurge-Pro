@@ -7,11 +7,11 @@ Built entirely in Python using a line-by-line generator/streaming approach, it c
 ---
 ## 📸 Screenshots
 
-![DataPurge Pro Interface 1](1 loading screen.png)
+<img src="1 loading screen.png" width="100%">
 
-![DataPurge Pro Interface 2](2 results.png)
+<img src="2 results.png" width="100%">
 
-![DataPurge Pro Interface 3](3 results.png)
+<img src="3 results.png" width="100%">
 
 ## ⚡ Performance Benchmark
 - **Dataset Size:** 100,000 rows (2.6 MB Data Log)
